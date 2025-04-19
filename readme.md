@@ -3,8 +3,6 @@
   <body>
   <h1 align="center"> 👋 Staff Full Stack Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  <!-- ![](https://komarev.com/ghpvc/?username=TheSonOfSocrates) -->
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
 
 <p align="center">
