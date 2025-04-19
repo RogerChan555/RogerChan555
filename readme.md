@@ -8,7 +8,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
 
 <p align="center">
-  <a href="https://github.com/javasuperdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack-Engineer;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/javasuperdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack-Developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
  <h1 align="center">
@@ -20,8 +20,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 <p align="center">
-<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=TheSonOfSocrates&count_private=true&show_icons=true&theme=tokyonight" />
-<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSonOfSocrates&layout=compact&theme=aura&langs_count=9" />
+<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=akini072&count_private=true&show_icons=true&theme=tokyonight" />
+<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akini072&layout=compact&theme=aura&langs_count=9" />
 </p>
 
 <br/>
@@ -29,8 +29,8 @@
 <h1 align="center">About Me</h1>
 
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="bank" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png"></g-emoji> I'm currently working for a blockchain based company where i make financial applications using MERN Stack</li>
-<li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"></g-emoji> I use daily <code>.java</code>, <code>.py</code>, <code>.js</code>, <code>.css</code>, <code>.sql</code></li>
+<li><g-emoji class="g-emoji" alias="bank" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png"></g-emoji> I'm currently working for a blockchain based company where i make financial applications using MEVN Stack</li>
+<li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"></g-emoji> I use daily <code>javascript</code>, <code>Typescript</code>, <code>.py</code>, <code>.js</code>, <code>.css</code>, <code>.sql</code></li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> I mastered docker and kubernetes</li>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley</li>
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"></g-emoji> Pronouns: He/Him</li>
@@ -107,7 +107,7 @@
 <h1 align="center">Connect with me</h1>
 
 <p align="center" dir="auto">
-  <a href="mailto:java.super.dev@gmail.com">
+  <a href="mailto:akin.ipek0505@gmail.com">
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg" style="max-width: 100%;">
   </a>
 </p>
