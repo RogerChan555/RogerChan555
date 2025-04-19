@@ -3,8 +3,6 @@
   <body>
   <h1 align="center"> 👋 Staff Full Stack Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  <!-- ![](https://komarev.com/ghpvc/?username=TheSonOfSocrates) -->
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
 
 <p align="center">
@@ -20,8 +18,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 <p align="center">
-<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=TheSonOfSocrates&count_private=true&show_icons=true&theme=tokyonight" />
-<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSonOfSocrates&layout=compact&theme=aura&langs_count=9" />
+<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=akini072&count_private=true&show_icons=true&theme=tokyonight" />
+<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akini072&layout=compact&theme=aura&langs_count=9" />
 </p>
 
 <br/>
