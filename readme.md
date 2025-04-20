@@ -6,12 +6,12 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
 
 <p align="center">
-  <a href="https://github.com/javasuperdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack-Developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/akini072"><img src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack-Developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
  <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
 
@@ -27,13 +27,10 @@
 <h1 align="center">About Me</h1>
 
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="bank" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png"></g-emoji> I'm currently working for a blockchain based company where i make financial applications using MEVN Stack</li>
-<li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"></g-emoji> I use daily <code>javascript</code>, <code>Typescript</code>, <code>.py</code>, <code>.js</code>, <code>.css</code>, <code>.sql</code></li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> I mastered docker and kubernetes</li>
-<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley</li>
+<li><g-emoji class="g-emoji" alias="bank" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png"></g-emoji> My most recent job ended last month, so I'm currently available and can fully dedicate myself to your project.</li>
+<li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"></g-emoji> I love coding—it's my passion and a big part of my life.</li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> I enjoy taking on new challenges and never let difficulties discourage me.</li>
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"></g-emoji> Pronouns: He/Him</li>
-<li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"></g-emoji> I regulary write articles on <a href="https://medium.com/@java.super.dev" rel="nofollow">Medium</a></li>
-<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"></g-emoji> Fun fact: Je connais un peu le français</li>
 </ul>
 <br/>
 
