@@ -99,13 +99,5 @@
 </table>
 
 <br/>
-<h1 align="center">Connect with me</h1>
-
-<p align="center" dir="auto">
-  <a href="mailto:akin.ipek0505@gmail.com">
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg" style="max-width: 100%;">
-  </a>
-</p>
-</p>
   </body>
 </html>
