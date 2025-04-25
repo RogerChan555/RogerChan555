@@ -73,6 +73,7 @@
         <img src="./assets/sass.png" width="40px">
       </div>
     </div>
+    <br/>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <p align="center" dir="auto"><strong>Backend</strong></p>
       <div align="center">
@@ -85,6 +86,7 @@
         <img src="./assets/graphql.png" width="45px">
       </div>
     </div>
+    <br/>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <p align="center" dir="auto"><strong>AI</strong></p>
       <div align="center">
@@ -95,6 +97,7 @@
         <img src="./assets/gpt.png" width="50px">
       </div>
     </div>
+    <br/>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <p align="center" dir="auto"><strong>Database</strong></p>
       <div align="center">
@@ -103,6 +106,7 @@
         <img src="./assets/mongodb.png" width="50px">
       </div>
     </div>
+    <br/>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <p align="center" dir="auto"><strong>Cloud & Tools</strong></p>
       <div align="center">
