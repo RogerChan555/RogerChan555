@@ -5,7 +5,7 @@
   <h1 align="center"> 👋 Sr. Web & AI Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
       width="35"></h1>
 
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=akini072" />
 
   <p align="center">
     <a href="https://github.com/akini072"><img
@@ -113,7 +113,7 @@
       <p align="center" dir="auto"><strong>Database</strong></p>
       <div style="display: flex; gap: 5px; justify-content: center">
         <img src="./assets/mysql.png" width="45px">
-        <img src="./assets/postgresql.png" width="45px">
+        <img src="./assets/postgreSQL.png" width="45px">
         <img src="./assets/mongodb.png" width="50px">
       </div>
     </div>
