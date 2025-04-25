@@ -62,7 +62,7 @@
     </div>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <p align="center" dir="auto"><strong>Frontend</strong></p>
-      <div style="display: flex; gap: 5px; justify-content: center">
+      <div align="center">
         <img src="./assets/react.png" width="45px"/>
         <img src="./assets/next.png" width="40px"/>
         <img src="./assets/vue.png" width="45px"/>
@@ -74,7 +74,7 @@
     </div>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <p align="center" dir="auto"><strong>Backend</strong></p>
-      <div style="display: flex; gap: 5px; justify-content: center">
+      <div align="center">
         <img src="./assets/node.png" width="45px">
         <img src="./assets/express.png" width="45px">
         <img src="./assets/laravel.png" width="50px">
@@ -86,7 +86,7 @@
     </div>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <p align="center" dir="auto"><strong>AI</strong></p>
-      <div style="display: flex; gap: 5px; justify-content: center">
+      <div align="center">
         <img src="./assets/ml.png" width="55px">
         <img src="./assets/nlp.png" width="50px">
         <img src="./assets/llm.png" width="50px">
@@ -96,7 +96,7 @@
     </div>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <p align="center" dir="auto"><strong>Database</strong></p>
-      <div style="display: flex; gap: 5px; justify-content: center">
+      <div align="center">
         <img src="./assets/mysql.png" width="45px">
         <img src="./assets/postgreSQL.png" width="45px">
         <img src="./assets/mongodb.png" width="50px">
@@ -104,7 +104,7 @@
     </div>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <p align="center" dir="auto"><strong>Cloud & Tools</strong></p>
-      <div style="display: flex; gap: 5px; justify-content: center">
+      <div align="center">
         <img src="./assets/aws.png" width="50px">
         <img src="./assets/heroku.png" width="45px">
         <img src="./assets/azure.png" width="50px">
