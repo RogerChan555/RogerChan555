@@ -49,7 +49,7 @@
   <p align="center">These are some of the major technologies that I use or have worked on in the past.</p>
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <div style="display: flex; justify-content: center; flex-direction: column;">
-      <p align="center" dir="auto"><strong>Programming Languages</strong></p>
+      <h3 align="center" dir="auto"><strong>Programming Languages</strong></h3>
       <div align="center">
         <img src="./assets/js.png" width="45px">
         <img src="./assets/ts.png" width="40px">
