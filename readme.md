@@ -113,7 +113,7 @@
       <p align="center" dir="auto"><strong>Database</strong></p>
       <div style="display: flex; gap: 5px; justify-content: center">
         <img src="./assets/mysql.png" width="45px">
-        <img src="./assets/postgresql.png" width="45px">
+        <img src="./assets/postgreSQL.png" width="45px">
         <img src="./assets/mongodb.png" width="50px">
       </div>
     </div>
