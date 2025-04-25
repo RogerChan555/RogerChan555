@@ -5,7 +5,8 @@
   <h1 align="center"> 👋 Sr. Web & AI Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
       width="35"></h1>
 
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
+  <!-- Updated fancy visitor badge -->
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid&label=🔥%20Hits&style=for-the-badge&color=ff69b4" />
 
   <p align="center">
     <a href="https://github.com/akini072"><img
@@ -38,25 +39,10 @@
   <h1 align="center">About Me</h1>
 
   <ul dir="auto">
-    <li>
-      <g-emoji class="g-emoji" alias="bank"
-        fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png"></g-emoji> My most recent
-      job ended last month, so I'm currently available and can fully dedicate myself to your project.
-    </li>
-    <li>
-      <g-emoji class="g-emoji" alias="thinking"
-        fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"></g-emoji> I love
-      coding—it's my passion and a big part of my life.
-    </li>
-    <li>
-      <g-emoji class="g-emoji" alias="speech_balloon"
-        fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> I enjoy taking on
-      new challenges and never let difficulties discourage me.
-    </li>
-    <li>
-      <g-emoji class="g-emoji" alias="smile"
-        fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"></g-emoji> Pronouns: He/Him
-    </li>
+    <li>🏦 My most recent job ended last month, so I'm currently available and can fully dedicate myself to your project.</li>
+    <li>🤔 I love coding—it's my passion and a big part of my life.</li>
+    <li>💬 I enjoy taking on new challenges and never let difficulties discourage me.</li>
+    <li>😄 Pronouns: He/Him</li>
   </ul>
   <br />
 
