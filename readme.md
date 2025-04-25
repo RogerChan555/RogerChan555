@@ -50,7 +50,7 @@
   <div style="display: flex; flex-direction: column; gap: 20px">
     <div style="display: flex; justify-content: center; flex-direction: column;">
       <p align="center" dir="auto"><strong>Programming Languages</strong></p>
-      <div align="center" style="margin-bottom: 8px">
+      <div align="center" style="margin-bottom: 15px">
         <img src="./assets/js.png" width="45px">
         <img src="./assets/ts.png" width="40px">
         <img src="./assets/php.png" width="45px">
