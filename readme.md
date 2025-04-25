@@ -47,10 +47,10 @@
 
   <h1 align="center">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h1>
   <p align="center">These are some of the major technologies that I use or have worked on in the past.</p>
-  <div style="display: flex; flex-direction: column; gap: 20px">
+  <div style="display: flex; flex-direction: column; gap: 20px;margin-bottom: 15px">
     <div style="display: flex; justify-content: center; flex-direction: column;">
       <p align="center" dir="auto"><strong>Programming Languages</strong></p>
-      <div align="center" style="margin-bottom: 15px">
+      <div align="center">
         <img src="./assets/js.png" width="45px">
         <img src="./assets/ts.png" width="40px">
         <img src="./assets/php.png" width="45px">
