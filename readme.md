@@ -6,7 +6,7 @@
       width="35"></h1>
 
   <!-- Updated fancy visitor badge -->
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid&label=🔥%20Hits&style=for-the-badge&color=ff69b4" />
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=akini072&label=🔥%20Hits&style=for-the-badge&color=ff69b4" />
 
   <p align="center">
     <a href="https://github.com/akini072"><img
