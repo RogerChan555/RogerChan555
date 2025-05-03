@@ -22,9 +22,10 @@
       alt="Star Badge" />
   </h1>
 
-  <p align="center"><img
-        src="https://github-profile-trophy.vercel.app/?username=akini072&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false"
-        alt="bc-expert" width="600px" /></p>
+  <p align="center"><img 
+    src="https://github-profile-trophy.vercel.app/?username=akini072&theme=tokyonight&no-frame=true&row=1&margin-w=30&no-bg=false" 
+    alt="bc-expert" 
+    width="100%" /></p>
   
 <p align=center>
 <!-- first row -->
