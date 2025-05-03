@@ -25,19 +25,35 @@
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
         src="https://github-profile-trophy.vercel.app/?username=akini072&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false"
         alt="bc-expert" width="600px" /></a> </p>
-
-  <p align="center">
-    <img height="150px" width="350px"
-      src="https://github-readme-stats.vercel.app/api?username=akini072&count_private=true&show_icons=true&theme=tokyonight" />
-    <img height="150px" width="350px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=akini072&layout=compact&theme=aura&langs_count=9" />
-  </p>
-   <picture>
+   <p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/akini072/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" height="200px" width=390 src="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" alt="akini072's github stats" />
+      </picture>
+    </a>
+    <a href="https://github.com/akini072/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <img height="200px" width="400px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=akini072&layout=compact&theme=react&langs_count=9&hide_border=true" />
+    </a>
+  <!-- github stats -->
+  </div>
+  <!-- spaces -->
+<br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akini072&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akini072&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akini072&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Akin's contribution graph" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akini072&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="akini072's contribution graph" />
     </picture>
-  <br />
+  </a>
+</p>
 
   <h1 align="center">About Me</h1>
 
