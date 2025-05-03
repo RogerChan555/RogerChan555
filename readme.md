@@ -59,13 +59,13 @@
     <div style="display: flex; justify-content: center; flex-direction: column;">
       <h3 align="center" dir="auto"><strong>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</strong></h3>
       <div align="center">
-        <img src="./assets/js.png" width="45px">
-        <img src="./assets/ts.png" width="40px">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" height="50" width="50px">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg"  height="50" width="50px">
         <img src="./assets/php.png" width="45px">
-        <img src="./assets/python.png" width="40px">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg"  height="45" width="45px">
         <img src="./assets/ruby.png" width="45px">
-        <img src="./assets/cplus.png" width="45px">
-        <img src="./assets/csharp.png" width="45px">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg"  height="50" width="45px">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg"  height="50" width="45px">
       </div>
     </div>
     <br/>
@@ -78,20 +78,20 @@
         <img src="./assets/nuxt.png" width="45px"/>
         <img src="./assets/svelte.png" width="40px"/>
         <img src="./assets/tailwind.png" width="40px"/>
-        <img src="./assets/sass.png" width="40px">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="45px">
       </div>
     </div>
     <br/>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <h3 align="center" dir="auto"><strong>𝐁𝐚𝐜𝐤𝐞𝐧𝐝</strong></h3>
       <div align="center">
-        <img src="./assets/node.png" width="45px">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50px">
         <img src="./assets/express.png" width="45px">
         <img src="./assets/laravel.png" width="50px">
-        <img src="./assets/django.png" width="45px">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50px">
         <img src="./assets/nest.png" width="45px">
         <img src="./assets/prisma.png" width="45px">
-        <img src="./assets/graphql.png" width="45px">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50px">
       </div>
     </div>
     <br/>
@@ -109,7 +109,7 @@
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <h3 align="center" dir="auto"><strong>𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞</strong></h3>
       <div align="center">
-        <img src="./assets/mysql.png" width="45px">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50px">
         <img src="./assets/postgreSQL.png" width="45px">
         <img src="./assets/mongodb.png" width="50px">
       </div>
@@ -118,11 +118,11 @@
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
       <h3 align="center" dir="auto"><strong>𝐂𝐥𝐨𝐮𝐝 & 𝐓𝐨𝐨𝐥𝐬</strong></h3>
       <div align="center">
-        <img src="./assets/aws.png" width="50px">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50px">
         <img src="./assets/heroku.png" width="45px">
-        <img src="./assets/azure.png" width="50px">
-        <img src="./assets/git.png" width="50px">
-        <img src="./assets/docker.png" width="50px">
+        <img src="./assets/azure.png" width="45px">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50px">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50px">
       </div>
     </div>
   </div>
