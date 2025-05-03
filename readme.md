@@ -2,7 +2,7 @@
 <html>
 
 <body>
-  <h1 align="center"> 👋 Sr. Web & AI Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+  <h1 align="center"> 👋 𝐒𝐫. 𝐖𝐞𝐛 & 𝐀𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
       width="35"></h1>
 
   <!-- Updated fancy visitor badge -->
@@ -53,11 +53,11 @@
     </picture>
   </div>
 </p>
-  <h1 align="center">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h1>
-  <p align="center">These are some of the major technologies that I use or have worked on in the past.</p>
+  <h1 align="center">𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h1>
+  <!-- <p align="center">These are some of the major technologies that I use or have worked on in the past.</p> -->
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <div style="display: flex; justify-content: center; flex-direction: column;">
-      <h3 align="center" dir="auto"><strong>Programming Languages</strong></h3>
+      <h3 align="center" dir="auto"><strong>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</strong></h3>
       <div align="center">
         <img src="./assets/js.png" width="45px">
         <img src="./assets/ts.png" width="40px">
@@ -70,7 +70,7 @@
     </div>
     <br/>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
-      <h3 align="center" dir="auto"><strong>Frontend</strong></h3>
+      <h3 align="center" dir="auto"><strong>𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝</strong></h3>
       <div align="center">
         <img src="./assets/react.png" width="45px"/>
         <img src="./assets/next.png" width="40px"/>
@@ -83,7 +83,7 @@
     </div>
     <br/>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
-      <h3 align="center" dir="auto"><strong>Backend</strong></h3>
+      <h3 align="center" dir="auto"><strong>𝐁𝐚𝐜𝐤𝐞𝐧𝐝</strong></h3>
       <div align="center">
         <img src="./assets/node.png" width="45px">
         <img src="./assets/express.png" width="45px">
@@ -96,7 +96,7 @@
     </div>
     <br/>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
-      <h3 align="center" dir="auto"><strong>AI</strong></h3>
+      <h3 align="center" dir="auto"><strong>𝐀𝐈</strong></h3>
       <div align="center">
         <img src="./assets/ml.png" width="55px">
         <img src="./assets/nlp.png" width="50px">
@@ -107,7 +107,7 @@
     </div>
     <br/>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
-      <h3 align="center" dir="auto"><strong>Database</strong></h3>
+      <h3 align="center" dir="auto"><strong>𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞</strong></h3>
       <div align="center">
         <img src="./assets/mysql.png" width="45px">
         <img src="./assets/postgreSQL.png" width="45px">
@@ -116,7 +116,7 @@
     </div>
     <br/>
     <div style="display: flex; justify-content: center; flex-direction: column; gap: 5px">
-      <h3 align="center" dir="auto"><strong>Cloud & Tools</strong></h3>
+      <h3 align="center" dir="auto"><strong>𝐂𝐥𝐨𝐮𝐝 & 𝐓𝐨𝐨𝐥𝐬</strong></h3>
       <div align="center">
         <img src="./assets/aws.png" width="50px">
         <img src="./assets/heroku.png" width="45px">
@@ -131,7 +131,7 @@
   <h1 align="center"><img
       src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png"
       alt="Victory Hand" width="25" height="25" />
-    Thank you for visiting my page!
+   𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠 𝐦𝐲 𝐩𝐚𝐠𝐞!
     <img
       src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png"
       alt="Heart Hands" width="25" height="25" />
