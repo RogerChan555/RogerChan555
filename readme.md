@@ -121,7 +121,7 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50px">
         <img src="./assets/heroku.png" width="45px">
         <img src="./assets/azure.png" width="45px">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50px">
+        <img src="./assets/git.png" width="45px">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50px">
       </div>
     </div>
