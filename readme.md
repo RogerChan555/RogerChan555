@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99"
       alt="Star Badge" />
   </h1>
-
+<h2 align="center">𝐒𝐭𝐚𝐭𝐬</h2>
   <p align="center"><img 
     src="https://github-profile-trophy.vercel.app/?username=akini072&theme=tokyonight&no-frame=true&row=1&margin-w=30&no-bg=false" 
     alt="bc-expert" 
@@ -53,7 +53,7 @@
     </picture>
   </div>
 </p>
-  <h1 align="center">𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h1>
+  <h2 align="center">𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
   <!-- <p align="center">These are some of the major technologies that I use or have worked on in the past.</p> -->
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <div style="display: flex; justify-content: center; flex-direction: column;">
