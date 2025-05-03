@@ -74,6 +74,7 @@
       <div align="center">
         <img src="./assets/react.png" width="45px"/>
         <img src="./assets/next.png" width="40px"/>
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45px">
         <img src="./assets/vue.png" width="45px"/>
         <img src="./assets/nuxt.png" width="45px"/>
         <img src="./assets/svelte.png" width="40px"/>
