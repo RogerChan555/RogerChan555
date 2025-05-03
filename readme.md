@@ -27,7 +27,7 @@
         alt="bc-expert" width="600px" /></a> </p>
   <p align=center>
 <!-- first row -->
-  <div align=center>
+  <!-- <div align=center> -->
   <!-- streak stats -->
     <a href="https://github.com/akini072/github-readme-stats" title="Go to Source">
       <picture>
@@ -42,7 +42,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=akini072&layout=compact&theme=react&langs_count=9&hide_border=true" />
     </a>
   <!-- github stats -->
-  </div>
+  <!-- </div> -->
   </p>
   <!-- spaces -->
 <br />
