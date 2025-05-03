@@ -33,12 +33,12 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" height="200px" width=390 src="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" alt="akini072's github stats" />
+        <img align="left" height="200px" width=390 src="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" alt="akini072's github stats" />
       </picture>
     </a>
     <a href="https://github.com/akini072/github-readme-streak-stats" title="Go to Source">
       <picture>
-        <img height="160px" width="450px"
+        <img align="right" height="160px" width="450px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=akini072&layout=compact&theme=react&langs_count=9&hide_border=true" />
     </a>
   <!-- github stats -->
