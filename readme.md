@@ -32,12 +32,6 @@
     <img height="150px" width="350px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=akini072&layout=compact&theme=aura&langs_count=9" />
   </p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/akini072/akini072/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/akini072/akini072/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/akini072/akini072/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-
   <br />
 
   <h1 align="center">About Me</h1>
