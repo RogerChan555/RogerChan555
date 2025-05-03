@@ -38,7 +38,7 @@
     </a>
     <a href="https://github.com/akini072/github-readme-streak-stats" title="Go to Source">
       <picture>
-        <img height="200px" width="400px"
+        <img height="160px" width="450px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=akini072&layout=compact&theme=react&langs_count=9&hide_border=true" />
     </a>
   <!-- github stats -->
