@@ -32,6 +32,11 @@
     <img height="150px" width="350px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=akini072&layout=compact&theme=aura&langs_count=9" />
   </p>
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akini072&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akini072&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akini072&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Akin's contribution graph" />
+    </picture>
   <br />
 
   <h1 align="center">About Me</h1>
